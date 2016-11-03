@@ -16,7 +16,7 @@ import com.cg.demo.exceptions.InvalidAccountException;
 import com.cg.demo.repo.AccountRepository;
 import com.cg.demo.service.AccountService;
 import com.cg.demo.service.AccountServiceImpl;
-
+//this is a test class
 public class TestAccountService {
 
 	private AccountService service;
